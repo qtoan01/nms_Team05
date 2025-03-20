@@ -1,4 +1,7 @@
 # nms_Team05
+# Howw to run this project?
+Please download "Non-Maximum-Suppression-Team05" and run "nms.py" file.
+
 # Before apply NMS
 ![image](https://github.com/user-attachments/assets/746e5f59-bff5-4ad4-9d27-5cdd1f96fe02)
 
